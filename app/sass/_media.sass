@@ -18,21 +18,49 @@
   .header
     .h1
       padding-top: 0
+
+  .slider-wrapper
+    .slider-item__desc
+      font-size: 14px
+    .slider-item__head
+      font-size: 26px
+      padding-top: 0
+
 //Small: ≥576px
 +media-breakpoint-down(sm)
   .phone-box
     padding: 20px 0
+
   .header
     padding-top: 0
     .h1
       font-size: 34px
       padding-bottom: 0
+
   .login-box
     padding-left: 0
 
+  .slider-wrapper
+    padding-top: 50px
+    .slider-item__img
+      img
+        margin: 0
+    .slider-item__head
+      padding-top: 20px
+
 //Extra small: >0
 +media-breakpoint-down(xs)
+  .slider-wrapper
+    padding-top: 30px
 
+  .slider-wrapper
+    .slider-item__img
+      height: auto
+      img
+        margin: 0
+  .upcoming-events__header
+    padding-bottom: 20px
+    
 /*==========  Mobile First  ==========*/
 
 //Extra small: <576px
