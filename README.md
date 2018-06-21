@@ -1,6 +1,6 @@
 # Тестовое задание от компании Софт Баланс #
 #### Главная страница мебельного магазина ####
-Сайт проекта: [Мебельный магазин](http://adel-ismagilov.ru/projects/tests/softbalance/)
+Сайт проекта: [Мебельный магазин](http://adel-ismagilov.ru/tests/softbalance/)
 ##### В работе использовались: #####
 1. Task manager: [Gulp](https://gulpjs.com/)
 2. CSS preproccessor: [SASS](http://sass-lang.com/)
